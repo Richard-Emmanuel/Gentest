@@ -193,14 +193,14 @@ hr {
   color: #fff;
 }
 .nollywood{
-  /* display: flex; */
+  display: flex;
   padding: 2rem 5rem ;
 }
 .nollywood__text, .hollywood__text{
   width: 30%;
 }
-/* .hollywood{
-  /* display: flex; */
+ .hollywood{
+ display: flex;}
 
 .nollywood__carousel img{
   width: 100%;
