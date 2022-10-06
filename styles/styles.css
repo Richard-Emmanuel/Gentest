@@ -86,7 +86,9 @@ body {
   max-width: 100%;
 }
 .container-fluid {
-  padding: 0 100px;
+  display: flex;
+  width: 100%;
+
 }
 
 /* Nav bar */
@@ -193,11 +195,12 @@ hr {
   color: #fff;
 }
 .nollywood{
-  display: flex;
+  /* display: flex; */
   padding: 2rem 5rem ;
 }
 .nollywood__text, .hollywood__text{
-  width: 30%;
+  width: 50%;
+
 }
  .hollywood{
  display: flex;}
